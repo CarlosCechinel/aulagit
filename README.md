@@ -1,3 +1,3 @@
-# Aulagit
+# aulagit
 
 teste aula git
